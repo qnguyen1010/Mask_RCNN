@@ -4,11 +4,13 @@
 
 !git clone https://github.com/matterport/Mask_RCNN.git
 
+
 2. Kangaroo Object Detection cloned from
 
 !git clone https://github.com/experiencor/kangaroo.git
 
-3. Python code: Mask_R_CNN_Kangaroo.ipynb
+
+3. Python code: **Mask_R_CNN_Kangaroo.ipynb**
 
 Follow step by step in the Mask_R_CNN_Kangaroo.ipynb.
 
