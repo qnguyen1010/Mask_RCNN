@@ -10,7 +10,7 @@
 
 3. Python code: Mask_R_CNN_Kangaroo.ipynb
 
-Follow step by step in the Mask R-CNN-Kangaroo.ipynb.
+Follow step by step in the Mask_R_CNN_Kangaroo.ipynb.
 
 First, clone the Mask_RCNN library. Install the libary and verify installation. 
 
