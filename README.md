@@ -8,7 +8,7 @@
 
 !git clone https://github.com/experiencor/kangaroo.git
 
-3. Python code: Mask R-CNN-Kangaroo.ipynb
+3. Python code: Mask_R_CNN_Kangaroo.ipynb
 
 Follow step by step in the Mask R-CNN-Kangaroo.ipynb.
 
