@@ -1,12 +1,12 @@
 # Mask_RCNN for Object Detection
 
-# 1. Mask_RCNN library cloned from
+1. Mask_RCNN library cloned from
 !git clone https://github.com/matterport/Mask_RCNN.git
 
-# 2. Kangaroo Object Detection cloned from
+2. Kangaroo Object Detection cloned from
 !git clone https://github.com/experiencor/kangaroo.git
 
-# 3. Python code: Mask R-CNN-Kangaroo.ipynb
+3. Python code: Mask R-CNN-Kangaroo.ipynb
 Follow step by step in the Mask R-CNN-Kangaroo.ipynb.
 First, clone the Mask_RCNN library. Install the libary and verify installation. 
 
