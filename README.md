@@ -22,13 +22,16 @@ Third step is to create a Mask R-CNN model, using pretrained weights on MS COCO 
 
 In training, we can choose to train the head layers only or all layers. This is documented in the code.
 
-Output
+
+**Output**
 
 1. able to detect kangaroos in photos (from train/test set, or from random online sources)
 
 2. Get confused by photos of topless soccer players due to similarity in photo color and shape.
 
 Metrics: Train mAP: 0.882; Test mAP:  0.922
+
+**Acknowledgement**
 
 This notebook was made based on the link below
 
